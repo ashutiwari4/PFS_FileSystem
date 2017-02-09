@@ -9,9 +9,8 @@
 READ ME FILE FOR "A PORTABLE FILE SYSTEM USING LINKED ALLOCATION METHOD"
 
 
-Steps to execute the project in Linux Shell -
-1) Compile the project using the javac mFilename.java
-2) To execute the project use java mFilename
+Steps to execute the project in Linux Shell -</br>
+ 2) To execute the project use java mFilename
 
 The running programs accepts the following commands :
 
